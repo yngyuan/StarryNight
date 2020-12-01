@@ -5,7 +5,7 @@ Start to walk in the virtual museum to see Starry Night painting, one of the mos
 
 ### Sneak Peak
 
-![picture](https://github.com/yngyuan/StarryNight/blob/master/pic.png?raw=true)
+![picture](https://github.com/yngyuan/StarryNight/blob/main/pic.png?raw=true)
 
 ### Developers
 Roza Atarod, Shravya kolavara, Yang Yuan
